@@ -1,0 +1,11 @@
+/* TODO: Make it awesome */
+#cartContents p{
+    background-color: aqua;
+    width: fit-content;
+    padding: 8px;
+    margin: 10px;
+    font-size: larger;
+    color: darkorchid;
+    border: 2px solid black;
+}
+
